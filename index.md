@@ -1,4 +1,1 @@
----
-layout: home
-title: "होम"
----
+
