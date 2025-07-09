@@ -1,7 +1,1 @@
-title: "Decode Doubt"
-description: "Educational blog on science and concepts"
-baseurl: ""
-url: "https://yourusername.github.io"
-theme_color: "#00549e"
-markdown: kramdown
-permalink: /:title/
+
