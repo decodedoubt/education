@@ -1,0 +1,5 @@
+title: Decode Doubt
+description: एक सिंपल और शुरुआती के लिए बनी Jekyll थीम
+baseurl: "" # उप-फोल्डर में हो तो /subfolder
+url: "https://yourusername.github.io"
+theme: minima
